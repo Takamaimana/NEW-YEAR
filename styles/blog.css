@@ -1,1 +1,27 @@
-/**/
+/*common shard style*/
+.body{
+    font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+}
+.text colour{
+    color: #FFF;
+}
+/*container holding the and the text*/
+.container{
+    position:elative;
+    text-align: center;
+    colour: #FFF
+}
+/*centered text*/
+.container{
+    position:absolute;
+    top:50%
+    left:50%
+    
+}
+
+.header{
+    height: 600px;
+    background-image: url(Vectorrr.png);
+    background-repeat: no-repeat;
+}
